@@ -1,0 +1,1 @@
+document.querySelectorAll('a[data-sx-service]').forEach(a=>{const u=new URL(a.href),q=new URLSearchParams(location.search);if(q.get('school'))u.searchParams.set('school',q.get('school'));if(q.get('demo')==='1')u.searchParams.set('demo','1');a.href=u.href});

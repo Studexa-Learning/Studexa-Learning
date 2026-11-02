@@ -4,6 +4,6 @@ window.STUDEXA_CONFIG={
  supabaseKey:'sb_publishable_fWD8fxrR9-u1oslITaCZhw_WAooeP69',
  onelearnUrl:'https://onelearnsystem.github.io/OneLearn/',
  // Keep the current app addresses during the Studexa transition.
- mathsUrl:'../OneMaths/index.html',readingUrl:'../OneReader/index.html',
+ mathsUrl:'https://studexa-learning.github.io/Studexa-Maths/',readingUrl:'https://studexa-learning.github.io/Studexa-Reading/',
  schoolSetupUrl:'../OneHome/index.html'
 };
